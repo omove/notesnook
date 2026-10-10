@@ -59,7 +59,7 @@
     "@types/yargs": "^17.0.33",
     "chokidar": "^4.0.3",
     "electron": "^37.10.3",
-    "electron-builder": "^26.8.1",
+    "electron-builder": "^26.17.0",
     "esbuild": "0.21.5",
     "fkill": "^10.0.3",
     "node-abi": "^4.5.0",
